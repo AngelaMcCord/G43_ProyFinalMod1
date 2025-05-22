@@ -24,7 +24,7 @@ Los puntos a tomar en cuenta para este proyecto son:
 
 ---
 
-Para ver este proyecto te invito a dar click en el siguiente [Link 🌺](https://angelamccord.github.io/G43_Repo_Angela/)
+Para ver este proyecto te invito a dar click en el siguiente [Link 🌺](https://github.com/AngelaMcCord/G43_ProyFinalMod1)
 
 ## Autor
 
